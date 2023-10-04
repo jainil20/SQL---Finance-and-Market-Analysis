@@ -40,4 +40,4 @@ Feel free to explore, analyze, and modify the code to suit your specific analyti
 
 ## Acknowledgments
 
-We extend our gratitude to [Codebasics team](https://codebasics.io) for providing the data used in this project. The rights to the data remain with Codebasics and we are thankful for their data contributions.
+We extend our gratitude to Codebasics team for providing the data used in this project. The rights to the data remain with Codebasics and we are thankful for their data contributions.
